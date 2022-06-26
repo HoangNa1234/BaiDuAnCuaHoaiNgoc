@@ -1,0 +1,133 @@
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Client.staticwebassets.runtime.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.staticwebassets.runtime.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.exe
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.deps.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.runtimeconfig.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.pdb
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Client.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Shared.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Client.pdb
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Shared.pdb
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.csproj.AssemblyReference.cache
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.AssemblyInfoInputs.cache
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.AssemblyInfo.cs
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.csproj.CoreCompileInputs.cache
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.RazorAssemblyInfo.cache
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.RazorAssemblyInfo.cs
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\scopedcss\bundle\PizzaPlace.Server.styles.css
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.csproj.CopyComplete
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\refint\PizzaPlace.Server.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.pdb
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.genruntimeconfig.cache
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\ref\PizzaPlace.Server.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Client.staticwebassets.runtime.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\appsettings.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.staticwebassets.runtime.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.exe
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.deps.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.runtimeconfig.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Server.pdb
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Client.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Shared.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Client.pdb
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\PizzaPlace.Shared.pdb
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.csproj.AssemblyReference.cache
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.AssemblyInfoInputs.cache
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.AssemblyInfo.cs
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.csproj.CoreCompileInputs.cache
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.RazorAssemblyInfo.cache
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.RazorAssemblyInfo.cs
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\scopedcss\bundle\PizzaPlace.Server.styles.css
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.csproj.CopyComplete
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\refint\PizzaPlace.Server.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.pdb
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\PizzaPlace.Server.genruntimeconfig.cache
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\obj\Debug\net6.0\ref\PizzaPlace.Server.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Humanizer.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Syncfusion.Blazor.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Syncfusion.ExcelExport.Net.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\Syncfusion.PdfExport.Net.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

@@ -1,0 +1,26 @@
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlace.Shared.deps.json
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlace.Shared.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlace.Shared.pdb
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.csproj.AssemblyReference.cache
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.AssemblyInfoInputs.cache
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.AssemblyInfo.cs
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\refint\PizzaPlace.Shared.dll
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.pdb
+C:\Users\Viet Khoa\source\repos\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\ref\PizzaPlace.Shared.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlace.Shared.deps.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlace.Shared.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlace.Shared.pdb
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.csproj.AssemblyReference.cache
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.AssemblyInfoInputs.cache
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.AssemblyInfo.cs
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.csproj.CoreCompileInputs.cache
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\refint\PizzaPlace.Shared.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.pdb
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\ref\PizzaPlace.Shared.dll
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\bin\Debug\net6.0\PizzaPlace.Shared.runtimeconfig.json
+D:\Java\PizzaPlace\PizzaPlace\PizzaPlace\Shared\obj\Debug\net6.0\PizzaPlace.Shared.genruntimeconfig.cache

@@ -1,0 +1,193 @@
+﻿@page "/"
+@using PizzaPlace.Shared
+@inject IMenuService MenuService
+@inject IOrderService orderService
+
+
+<PageTitle>Index</PageTitle>
+
+<StyledGoogleFont Name="Store" Styles="normal"/>
+<Styled @bind-Classname="@geostar">
+    font-family:Store;
+    font-size:@_fontsize;
+</Styled>
+<p class="@geostar">STORE ROLI</p>
+@code{
+    private State State { get; } = new State();
+    protected override void OnInitialized()
+    {
+        State.Menu.Add(new Pizza(1, "Giày thể thao nam", 8.99M, Spiciness.shoe1));
+        State.Menu.Add(new Pizza(2, "Giày thể thao nam", 7.99M, Spiciness.shoe2));
+        State.Menu.Add(new Pizza(3, "Giày thể thao nam Van Old School", 9.99M, Spiciness.van));
+        State.Menu.Add(new Pizza(3, "Giày thể thao nam Van Old School", 9.99M, Spiciness.van2));
+        State.Menu.Add(new Pizza(3, "Giày thể thao nam Van Old School ", 9.99M, Spiciness.van3));
+    }
+    private string SpicinessImage(Spiciness spiciness)
+    => $"images/{spiciness.ToString().ToLower()}.png";
+    private void AddToBasket(Pizza pizza)
+    => State.Basket.Add(pizza.Id);
+    private void RemoveFromBasket(int pos)
+    => State.Basket.RemoveAt(pos);
+    private void PlaceOrder()
+    {
+        Console.WriteLine("Placing order");
+    }
+}
+<!--Menu-->
+<StyledGoogleFont Name="Store" Styles="normal"/>
+<Styled @bind-Classname="@geostar">
+    font-family:Store;
+    font-size:@_fontsize;
+</Styled>
+<p class="@geostar">GIÀY THỂ THAO NAM - NỮ</p>
+
+@foreach(var pizza in State.Menu.Pizzas)
+{
+    <div class="row">
+
+    <div class="col">
+        @pizza.Name
+    </div>
+    <div class="col text-right">
+        @($"{pizza.Price:0.00}")
+    </div>
+    <div class="col"></div>
+    <div class="col">
+        <img src="@SpicinessImage(pizza.Spiciness)"
+             alt="@pizza.Spiciness"/>
+    </div>
+    <div class="col">
+        <button class="btn btn-success pl-10 pr-10"
+            @onclick="@(() => AddToBasket(pizza))">
+         Thêm vào giỏ hàng
+        </button>
+    </div>
+  </div>
+}
+<!--End Menu-->
+<!--Shopping Basket-->
+@if (State.Basket.Orders.Any())
+{
+
+    <h1 class="">Your curent order</h1>
+    @foreach (var(pizza,pos)in State.Basket.Orders.Select((id,pos)=>(State.Menu.GetPizza(id),pos)))
+    {
+        <div class="row mb-2">
+            <div class="col">
+                @pizza.Name
+            </div>
+        <div class="col text-right">
+               @($"{pizza.Price:0.00}")
+        </div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col">
+            <button class="btn btn-danger"
+                  @onclick="@(()=>RemoveFromBasket(pos))">
+                  Remove
+                  </button>
+            </div>
+        </div>
+    }
+    <div class="row">
+        <div class="col"></div>
+        <div class="col"><hr/></div>
+        <div class="col"> </div>
+        <div class="col"> </div>
+    </div>
+    <div class="row">
+        <div class="col">Total:</div>
+        <div class="col text-right font-weight-bold">
+            @($"{State.TotalPrice:0.00}")
+        </div>
+        <div class="col"> </div>
+        <div class="col"> </div>
+        <div class="col"> </div>
+    </div>
+}
+<!--End Shopping Basket-->
+<!--Customer entry-->
+<StyledGoogleFont Name="Store" Styles="normal"/>
+<Styled @bind-Classname="@geostar">
+    font-family:Store;
+    font-size:@_fontsize;
+</Styled>
+<p class="@geostar">Vui lòng điền đầy đủ thông tin của bạn</p>
+<fieldset>
+    <div class="row mb-2">
+        <label class="col-2" for="name">Name:</label>
+        <input class="col-6" id="name"
+              @bind="State.Basket.Customer.Name"/>
+    </div>
+    <div class="row mb-2">
+        <label class="col-2" for="street">Street:</label>
+        <input class="col-6" id="street"
+              @bind="State.Basket.Customer.Street"/>
+    </div>
+    <div class="row mb-2">
+        <label class="col-2" for="city">City:</label>
+        <input class="col-6" id="city"
+              @bind="State.Basket.Customer.City"/>
+    </div>
+    <button @onclick="PlaceOrder">Checkout</button>
+</fieldset>
+<!--End Customer entry-->
+@State.ToJson()
+<!--New Customer entry-->
+<h1 class="mt-2 mb-2">Vui lòng nhập đầy đủ thông tin của bạn vào bên dưới</h1>
+<EditForm Model="@State.Basket.Customer"
+    OnInvalidSubmit="PlaceOrder">
+    <DataAnnotationsValidator/>
+    <ValidationSummary/>
+<fieldset>
+    <div class="row mb-2">
+        <label class="col-2" for="name">Name:</label>
+        <InputText class="form-control col-6"
+            @bind-Value="@State.Basket.Customer.Name"/>
+    </div>
+    <div class="row mb-2">
+        <div class="col-6 offset-2">
+            <ValidationMessage
+               For="@(()=>State.Basket.Customer.Name)"/>
+        </div>
+    </div>
+     <div class="row mb-2">
+        <label class="col-2" for="street">Street:</label>
+        <InputText class="form-control col-6"
+            @bind-Value="@State.Basket.Customer.Street"/>
+    </div>
+    <div class="row mb-2">
+        <div class="col-6 offset-2">
+            <ValidationMessage
+               For="@(()=>State.Basket.Customer.Street)"/>
+        </div>
+    </div>
+     <div class="row mb-2">
+        <label class="col-2" for="city">City:</label>
+        <InputText class="form-control col-6"
+            @bind-Value="@State.Basket.Customer.City"/>
+    </div>
+     <div class="row mb-2">
+        <div class="col-6 offset-2">
+            <ValidationMessage
+               For="@(()=>State.Basket.Customer.City)"/>
+        </div>
+    </div>
+    <div class="row mb-2">
+        <button class="mx-auto w-25 btn btn-success"
+        @onclick="PlaceOrder">Checkout</button>
+    </div>
+</fieldset>
+</EditForm>
+<!--End New Customer entry-->
+    @code{
+        public string mycss, _color,_fontsize="50px",geostar;
+        protected void click(string color)
+        {
+            _color = color;
+        }
+        protected void fontsize(string fontsize)
+        {
+            _fontsize = fontsize;
+        }
+}

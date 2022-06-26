@@ -1,0 +1,91 @@
+﻿@page "/cuahang"
+@inject IStyled Styled
+@using PizzaPlace.Shared
+@inject IMenuService MenuService
+@inject IOrderService orderService
+
+
+<PageTitle>Store</PageTitle>
+<StyledGoogleFont Name="Store" Styles="normal"/>
+<Styled @bind-Classname="@geostar">
+    font-family:Store;
+    font-size:@_fontsize;
+</Styled>
+<p class="@geostar">STORE ROLI</p>
+<Styled @bind-bind-Classname="@mycss">
+        Color:@_color;
+        font-size:@_fontsize;
+        &:hover{
+            color:#C865B9;
+        }
+</Styled>
+
+<div class="row">
+    <div class="col-50">
+        <button class="btn btn-success pl-10 pr-10" @onclick="@(x=> click("gray"))">Shose</button>
+        <button class="btn btn-success pl-10 pr-10" @onclick="@(x=> click("gray"))">Electronic</button>
+        <button class="btn btn-success pl-10 pr-10" @onclick="@(x=> click("gray"))">Beauty</button>
+    </div>
+</div>
+    @code{
+        public string mycss, _color,_fontsize="50px",geostar;
+        protected void click(string color)
+        {
+            _color = color;
+        }
+        protected void fontsize(string fontsize)
+        {
+            _fontsize = fontsize;
+        }
+}
+
+@foreach(var pizza in State.Menu.Pizzas)
+{
+    <div class="row">
+
+    <div class="col">
+        @pizza.Name
+    </div>
+    <div class="col text-center">
+        @($"{pizza.Price:0.00}")
+    </div>
+    <div class="col"></div>
+    <div class="col">
+        <img src="@SpicinessImage(pizza.Spiciness)"
+             alt="@pizza.Spiciness"/>
+    </div>
+    <div class="col">
+        <button class="btn btn-success pl-10 pr-20"
+            @onclick="@(() => AddToBasket(pizza))">
+         Thêm vào giỏ hàng
+        </button>
+    </div>
+  </div>
+}
+
+
+
+
+
+@code{
+    private State State { get; } = new State();
+    protected override void OnInitialized()
+    {
+        State.Menu.Add(new Pizza(1, "Giày thể thao nam", 8.99M, Spiciness.shoe1));
+        State.Menu.Add(new Pizza(2, "Giày thể thao nam", 7.99M, Spiciness.shoe2));
+        State.Menu.Add(new Pizza(3, "Giày thể thao nam Van Old School", 9.99M, Spiciness.van));
+        State.Menu.Add(new Pizza(3, "Giày thể thao nam Van Old School", 9.99M, Spiciness.van2));
+        State.Menu.Add(new Pizza(3, "Giày thể thao nam Van Old School ", 9.99M, Spiciness.van3));
+    }
+    private string SpicinessImage(Spiciness spiciness)
+    => $"images/{spiciness.ToString().ToLower()}.png";
+    private void AddToBasket(Pizza pizza)
+    => State.Basket.Add(pizza.Id);
+    private void RemoveFromBasket(int pos)
+    => State.Basket.RemoveAt(pos);
+    private void PlaceOrder()
+    {
+        Console.WriteLine("Placing order");
+    }
+}
+

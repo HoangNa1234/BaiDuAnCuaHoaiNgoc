@@ -1,0 +1,50 @@
+﻿@page "/thongke"
+@using Syncfusion.Blazor;
+
+<Styled @bind-Classname="@geostar">
+    font-family:Store;
+    font-size:@_fontsize;
+</Styled>
+<p class="@geostar">BẢNG THỐNG KÊ KHÁCH HÀNG ĐÃ MUA HÀNG</p>
+<SfGrid DataSource="@Orders" AllowPaging="true" AllowSorting="true" AllowFiltering="true" AllowGrouping="true">
+ <GridPageSettings PageSize="10"></GridPageSettings>
+   <GridColumns>
+     <GridColumn Field=@nameof(Order.OrderID) HeaderText="Mã đơn hàng" TextAlign="TextAlign.Left" Width="210"></GridColumn>
+     <GridColumn Field=@nameof(Order.CustomerID) HeaderText="Tên khách hàng" TextAlign="TextAlign.Center" Width="210"></GridColumn>
+     <GridColumn Field=@nameof(Order.OrderDate) HeaderText=" Ngày đặt hàng" Format="d" Type="ColumnType.Date" TextAlign="TextAlign.Center" Width="210"></GridColumn>
+     <GridColumn Field=@nameof(Order.Tensanpham) HeaderText="Tên sản phẩm" Format="C2" TextAlign="TextAlign.Right" Width="210"></GridColumn>
+   </GridColumns>
+</SfGrid>
+
+@code{
+    public List<Order> Orders { get; set; }
+
+    protected override void OnInitialized()
+    {
+        Orders = Enumerable.Range(1, 5).Select(x => new Order()
+        {
+            OrderID = 1000 + x,
+            CustomerID = (new string[] { "Nhung Đoàn", "Hoài Ngọc", "Cẩm Nhi", "Ngọc Nhi", "Bảo Trâm" })[new Random().Next(5)],
+            Tensanpham = (new string[] { "Giày van old school", "Giày van old school", "Giày van old school"})[new Random().Next(3)],
+            OrderDate = DateTime.Now.AddDays(-x),
+        }).ToList();
+    }
+
+    public class Order {
+        public int? OrderID { get; set; }
+        public string CustomerID { get; set; }
+        public string Tensanpham { get; set; }
+        public DateTime? OrderDate { get; set; }
+    }
+}
+    @code{
+        public string mycss, _color,_fontsize="50px",geostar;
+        protected void click(string color)
+        {
+            _color = color;
+        }
+        protected void fontsize(string fontsize)
+        {
+            _fontsize = fontsize;
+        }
+}

@@ -1,0 +1,36 @@
+﻿@page "/login"
+<h1>ACCOUNT</h1>
+<h3>@title</h3>
+@code {
+    private string title = "Đăng ký tài khoản";
+    private string name;
+    private string address;
+    private string phone;
+    private string login;
+
+    public void Login()
+    {
+        if(!string.IsNullOrEmpty(name)&&!string.IsNullOrEmpty(address)&&!string.IsNullOrEmpty(phone))
+        {
+            login = $"Chúc mừng bạn {name} đã đăng ký thành viên thành công!";
+        }
+    }
+    
+}
+<div class="form-group">
+    <input type="text" placeholder="Your name" @bind="name" class="form-control"/>
+</div>
+<div class="form-group">
+    <input type="text" placeholder="Your address" @bind="address" class="form-control"/>
+</div>
+<div class="form-group">
+    <input type="text" placeholder="Your phone" @bind="phone" class="form-control"/>
+</div>
+<div class="form-group">
+    <button @onclick="Login" class="btn btn-primary">
+        LOGIN
+    </button>
+    <button @onclick="Login" class="btn btn"></button>
+</div>
+
+

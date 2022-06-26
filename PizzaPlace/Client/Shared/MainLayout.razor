@@ -1,0 +1,23 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar">
+
+        <div style="background-image:none;background-color:lightseagreen;" class="sidebar">
+    <NavMenu />
+</div>
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+            <a href="/statistics" target="_blank">Statistics</a>
+            <a href="/login" target="_blank">Statistics</a>
+            <a href="/store" target="_blank">Statistics</a>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
